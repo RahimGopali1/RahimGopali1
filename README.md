@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahimGopali1
-- 👀 I’m interested in Guiter, Games, painting
-- 🌱 I’m currently learning Coding
+- 👀 I’m interested in Coding and playing guiter.
+- 🌱 I’m currently working as a frontend developer in allstar technology
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me 
 
